@@ -5,7 +5,7 @@ User Experience não é uma disciplina binária, onde existe o “certo” e o �
 
 Confira algumas perguntas que podem te ajudar quando estiver projetando uma experiência para as outras pessoas.
 
-> Reduzir
+> ### Reduzir
 É possível retirar algum elemento ou informação da tela e ainda assim permitir que o usuário consiga cumprir a tarefa sem problemas?
 
 ### Revelar
